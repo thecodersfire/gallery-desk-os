@@ -25,8 +25,4 @@ The `gallery-desk.svg` wallpaper is original. Gallery Desk OS is an independent 
 See [FEATURES.md](FEATURES.md) for three local tools included for museum collections research.
 
 
-The installer also includes three purpose-specific applications: **Anki, Foliate, LibreOffice**. See [FEATURES.md](FEATURES.md).
-
-The installer also includes three purpose-specific applications: **Anki, Foliate, LibreOffice**. See [FEATURES.md](FEATURES.md).
-
-The installer also includes three purpose-specific applications: **Anki, Foliate, LibreOffice**. See [FEATURES.md](FEATURES.md).
+The installer includes ten more applications selected for this distro's purpose. See [FEATURES.md](FEATURES.md) for the list.
