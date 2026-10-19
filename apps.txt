@@ -55,3 +55,20 @@ org.kde.konsole
 org.kde.kpat
 org.kde.knights
 org.blender.Blender
+
+# Fifteen further purpose-specific applications
+org.kde.marble
+org.kde.kgeotag
+org.kde.kst
+org.kde.labplot
+org.kde.kphotoalbum
+org.kde.tellico
+com.github.jeromerobert.pdfarranger
+org.localsend.localsend_app
+net.cozic.joplin_desktop
+org.kde.kbackup
+org.gnome.DejaDup
+org.kde.krename
+org.kde.skanpage
+org.kde.merkuro
+org.kde.kontact

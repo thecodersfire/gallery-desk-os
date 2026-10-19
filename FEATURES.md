@@ -87,3 +87,23 @@ Game frontends do not include proprietary game data; add only games or files you
 ## Blender included in every setup
 
 Blender (org.blender.Blender) is included in every setup for 3D modeling, animation, rendering, and video editing. Installers fetch it from Flathub; Blender’s own license and terms apply.
+
+## Fifteen additional purpose-specific applications
+
+The setup adds these Flathub applications for museum collections research. Applications are fetched from Flathub by the setup script; each app keeps its own licensing and terms.
+
+1. **Marble** (org.kde.marble) — Explore maps and a virtual globe for route and place context.
+2. **KGeoTag** (org.kde.kgeotag) — Review and edit photo location metadata.
+3. **Kst** (org.kde.kst) — Display and inspect scientific measurement and time-series data.
+4. **LabPlot** (org.kde.labplot) — Plot and analyze data imported from spreadsheets or research files.
+5. **KPhotoAlbum** (org.kde.kphotoalbum) — Tag and organize large photo collections.
+6. **Tellico** (org.kde.tellico) — Catalog books, media, games, and other collections.
+7. **PDF Arranger** (com.github.jeromerobert.pdfarranger) — Reorder, rotate, split, and merge PDF pages.
+8. **LocalSend** (org.localsend.localsend_app) — Transfer files directly between nearby devices on your local network.
+9. **Joplin** (net.cozic.joplin_desktop) — Organize notes and checklists in notebooks.
+10. **KBackup** (org.kde.kbackup) — Create user-selected backup archives of files and folders.
+11. **Déjà Dup** (org.gnome.DejaDup) — Create user-configured file backups to a chosen destination.
+12. **KRename** (org.kde.krename) — Batch rename photo, document, and project files.
+13. **Skanpage** (org.kde.skanpage) — Scan and arrange multipage documents from a connected scanner.
+14. **Merkuro** (org.kde.merkuro) — Organize calendars, contacts, and tasks.
+15. **Kontact** (org.kde.kontact) — Organize personal email, contacts, calendars, and tasks.
