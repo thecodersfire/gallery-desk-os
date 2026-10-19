@@ -12,3 +12,13 @@ Install them from this repository:
 
     mkdir -p "$HOME/.local/bin"
     install -m 0755 features/gallery-desk-os-workspace features/gallery-desk-os-plan features/gallery-desk-os-check "$HOME/.local/bin/"
+
+## Preinstalled purpose software
+
+The installer adds these three Flathub applications for museum collections research:
+
+1. **Anki** — net.ankiweb.Anki
+2. **Foliate** — com.github.johnfactotum.Foliate
+3. **LibreOffice** — org.libreoffice.LibreOffice
+
+They are installed from Flathub during setup. The repository contains application IDs and documentation, not third-party binaries; each publisher’s terms and licenses apply.
